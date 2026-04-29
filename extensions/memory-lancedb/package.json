@@ -1,0 +1,7 @@
+{
+  "name": "@must-b/pack-system-ext-memory-lancedb",
+  "version": "1.0.0",
+  "description": "Must-b LanceDB-backed long-term memory plugin with auto-recall/capture",
+  "main": "index.cjs",
+  "private": true
+}

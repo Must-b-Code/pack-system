@@ -1,0 +1,7 @@
+{
+  "name": "@must-b/pack-system-ext-diagnostics-otel",
+  "version": "1.0.0",
+  "description": "Must-b diagnostics OpenTelemetry exporter",
+  "main": "index.cjs",
+  "private": true
+}

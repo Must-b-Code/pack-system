@@ -1,0 +1,7 @@
+{
+  "name": "@must-b/pack-system-ext-voice-call",
+  "version": "1.0.0",
+  "description": "Must-b voice-call plugin",
+  "main": "index.cjs",
+  "private": true
+}

@@ -1,0 +1,7 @@
+{
+  "name": "@must-b/pack-system-ext-acpx",
+  "version": "1.0.0",
+  "description": "Must-b ACP runtime backend via acpx",
+  "main": "index.cjs",
+  "private": true
+}

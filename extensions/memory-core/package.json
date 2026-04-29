@@ -1,0 +1,7 @@
+{
+  "name": "@must-b/pack-system-ext-memory-core",
+  "version": "1.0.0",
+  "description": "Must-b core memory search plugin",
+  "main": "index.cjs",
+  "private": true
+}

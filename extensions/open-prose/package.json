@@ -1,0 +1,7 @@
+{
+  "name": "@must-b/pack-system-ext-open-prose",
+  "version": "1.0.0",
+  "description": "OpenProse VM skill pack plugin (slash command + telemetry).",
+  "main": "index.cjs",
+  "private": true
+}

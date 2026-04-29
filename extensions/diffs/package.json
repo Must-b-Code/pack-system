@@ -1,0 +1,7 @@
+{
+  "name": "@must-b/pack-system-ext-diffs",
+  "version": "1.0.0",
+  "description": "Must-b diff viewer plugin",
+  "main": "index.cjs",
+  "private": true
+}

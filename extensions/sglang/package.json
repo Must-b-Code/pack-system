@@ -1,0 +1,7 @@
+{
+  "name": "@must-b/pack-system-ext-sglang",
+  "version": "1.0.0",
+  "description": "Must-b SGLang provider plugin",
+  "main": "index.cjs",
+  "private": true
+}

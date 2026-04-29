@@ -1,0 +1,7 @@
+{
+  "name": "@must-b/pack-system-ext-lobster",
+  "version": "1.0.0",
+  "description": "Lobster workflow tool plugin (typed pipelines + resumable approvals)",
+  "main": "index.cjs",
+  "private": true
+}

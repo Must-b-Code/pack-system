@@ -1,0 +1,7 @@
+{
+  "name": "@must-b/pack-system-ext-ollama",
+  "version": "1.0.0",
+  "description": "Must-b Ollama provider plugin",
+  "main": "index.cjs",
+  "private": true
+}

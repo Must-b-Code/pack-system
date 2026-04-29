@@ -1,0 +1,7 @@
+{
+  "name": "@must-b/pack-system-ext-copilot-proxy",
+  "version": "1.0.0",
+  "description": "Must-b Copilot Proxy provider plugin",
+  "main": "index.cjs",
+  "private": true
+}
